@@ -8,4 +8,3 @@ df_pivot_comp.to_csv('GDP_pivot_comp.csv')
 df_pivot_comp.plot(kind='line').legend(loc='best')
 import matplotlib.pyplot as plt
 plt.savefig('plot.png')
-
