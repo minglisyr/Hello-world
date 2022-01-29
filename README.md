@@ -1,2 +1,2 @@
-# Hello-world
-this is a test version for branch feature.
+# Visual Studio Code Workspace
+this is a workspace for VSC practice
